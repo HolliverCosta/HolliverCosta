@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-I'm Holliver Costa, an undergraduate student in Computer Science at Universidade Federal de Campina Grande 
+I'm Holliver Costa, student in Computer Science at Universidade Federal de Campina Grande 
+
 🔭 I'm currently learning about typescript and react  
 🌱 I'm a member of Pilab    
 
