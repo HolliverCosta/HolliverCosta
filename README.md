@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-I'm Holliver Costa, student in Computer Science at Universidade Federal de Campina Grande 
-
-🔭 I’m currently working on Pilab
-🌱 I'm currently learning about typescript and react    
+- I'm Holliver Costa, student in Computer Science at Universidade Federal de Campina Grande 
+- 🔭 I’m currently working on Pilab
+- 🌱 I'm currently learning about typescript and react    
 
 ![Holliver GitHub stats](https://github-readme-stats.vercel.app/api?username=HolliverCosta&count_private=true&theme=dark)
 ![Holliver Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HolliverCosta&layout=compact&theme=dark)
