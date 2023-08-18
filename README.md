@@ -7,5 +7,4 @@
   
 #### Social Media
 <p align =center>
-  <a href="https://www.instagram.com/holliver_costa/" target="blank"><img src="https://img.icons8.com/metro/48/000000/instagram-new.png" alt="holliver_costa_insta"/>
   <a href="https://www.linkedin.com/in/holliver-costa-3a4698220/" target="blank"><img src="https://img.icons8.com/metro/48/000000/linkedin.png" alt="holliver_costa_linkedin"/>
